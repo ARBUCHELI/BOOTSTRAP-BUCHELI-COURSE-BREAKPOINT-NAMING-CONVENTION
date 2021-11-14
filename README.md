@@ -38,3 +38,4 @@ Follow the naming convention and apply it to both columns.
 
 ## Take a look at the live example here:
 https://bucheli-web-development-bootstrap-course-breakpoint-naming.netlify.app/
+
